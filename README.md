@@ -88,6 +88,6 @@ Esto refuerza la importancia de basar decisiones en datos y pruebas estadística
 
 ---
 
-## 👨‍💻 Autor
+## Enfoque
 
 Proyecto realizado como parte de formación en análisis de datos, enfocado en toma de decisiones basada en evidencia.
